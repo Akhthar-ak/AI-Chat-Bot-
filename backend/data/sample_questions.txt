@@ -1,0 +1,108 @@
+✅ Exercise Dataset Questions (1–40)
+
+Suggest an exercise for abdominals
+Give me a beginner exercise for chest
+Recommend an intermediate workout using bands
+What is the Partner plank band row?
+Explain the Banded crunch exercise
+Give a strength workout for abs
+Suggest an exercise using dumbbells
+Give a workout for shoulders
+Best exercise for biceps
+Suggest a back workout routine
+Give a leg exercise for strength
+Recommend a cardio-based gym exercise
+Suggest an exercise for glutes
+Give me a workout for hamstrings
+Best exercise for triceps
+Suggest an advanced core workout
+What equipment is needed for crunches?
+Give me an exercise for full body
+Recommend a plank variation
+Suggest an exercise for fat loss
+Give a workout using resistance bands
+Best intermediate gym exercise for abs
+Suggest an exercise for lower back
+Give a beginner-friendly workout plan
+Suggest an exercise for mobility
+Recommend a strength training exercise
+What is FYR Banded Plank Jack?
+Give an exercise tutorial for crunch
+Suggest a gym workout for endurance
+Recommend a workout for upper body
+Suggest a workout for arms
+Give an exercise for core stability
+Best workout for beginners with no equipment
+Suggest an exercise using gym machines
+Recommend a workout for muscle gain
+Give a workout for weight loss
+Suggest an exercise for flexibility
+Give an abs workout using bands
+Suggest an intermediate leg workout
+Recommend an exercise for strength improvement
+
+🥗 Nutrition Dataset Questions (41–70)
+
+How much protein should I eat daily?
+Give nutrition advice for fat loss
+Suggest foods high in protein
+What is a healthy carb intake?
+Explain saturated fat in diet
+Give a low sugar nutrition tip
+Suggest a balanced meal for gym
+How much fiber should I consume?
+Nutrition plan for muscle gain
+Healthy diet for beginners
+Suggest foods with low sodium
+What are healthy fats?
+How to reduce sugar intake?
+Give nutrition tips for weight loss
+Suggest post-workout nutrition
+What is nutrition-score in foods?
+Give an example of healthy food values
+Explain carbs importance for workouts
+Nutrition advice for endurance training
+Suggest vegetarian protein sources
+What are macros in diet?
+Give diet advice for cutting phase
+Suggest diet for bulking phase
+What is a calorie deficit diet?
+Explain calorie surplus nutrition
+Suggest a gym diet plan for fat loss
+How much protein per 100g is good?
+Give tips for healthy eating
+Suggest low-fat high-protein foods
+Nutrition tips for maintaining fitness
+
+📊 Fitness Tracking Dataset Questions (71–100)
+
+Show me a BMI example from tracking data
+What workout burns the most calories?
+Give an example of HIIT calories burned
+Suggest workout type based on BMI
+How much water should gym members drink?
+Show tracking data for strength workouts
+Example calories burned in yoga session
+What is average BPM during cardio?
+Give workout recommendation for high BMI
+Suggest workout frequency for beginners
+How long should a gym session last?
+Example session duration for fat loss
+Show fitness tracking for experience level 1
+Suggest workout type for endurance
+Give tracking example for female member
+Show tracking example for male member
+What is max BPM during HIIT?
+Suggest hydration levels during workouts
+Give calorie burn example for cardio
+What is resting BPM importance?
+Suggest workout plan based on calories burned
+Show example of workout frequency 4 days/week
+Suggest workout for overweight person
+Give BMI-based fitness advice
+Example tracking data for muscle building
+Show fat percentage example from dataset
+Suggest workout based on experience level 3
+How does water intake affect performance?
+Give fitness tracking tip for consistency
+Suggest workout improvement using tracking stats

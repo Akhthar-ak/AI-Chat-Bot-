@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Push Up",
+    "desc": "A bodyweight exercise that strengthens chest, shoulders, and triceps.",
+    "link": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+  },
+  {
+    "name": "Squat",
+    "desc": "A lower-body movement targeting quads, glutes, and hamstrings.",
+    "link": "https://www.youtube.com/watch?v=aclHkVaku9U"
+  },
+  {
+    "name": "Deadlift",
+    "desc": "A full-body strength exercise focusing on back, legs, and core.",
+    "link": "https://www.youtube.com/watch?v=op9kVnSso6Q"
+  },
+  {
+    "name": "Bench Press",
+    "desc": "A classic chest-building workout using a barbell or dumbbells.",
+    "link": "https://www.youtube.com/watch?v=rT7DgCr-3pg"
+  },
+  {
+    "name": "Plank",
+    "desc": "A core stability exercise that strengthens abs and lower back.",
+    "link": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "name": "Pull Up",
+    "desc": "An upper-body workout targeting lats, biceps, and back strength.",
+    "link": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "name": "Lunges",
+    "desc": "A leg exercise that improves balance and strengthens glutes and thighs.",
+    "link": "https://www.youtube.com/watch?v=QOVaHwm-Q6U"
+  },
+  {
+    "name": "Shoulder Press",
+    "desc": "A strength movement that builds shoulders and triceps.",
+    "link": "https://www.youtube.com/watch?v=B-aVuyhvLHU"
+  },
+  {
+    "name": "Bicep Curl",
+    "desc": "An arm exercise focusing on building biceps muscle.",
+    "link": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "name": "Tricep Dips",
+    "desc": "A bodyweight workout targeting triceps and upper arms.",
+    "link": "https://www.youtube.com/watch?v=0326dy_-CzM"
+  },
+  {
+    "name": "Leg Press",
+    "desc": "A machine-based workout for building strong legs safely.",
+    "link": "https://www.youtube.com/watch?v=IZxyjW7MPJQ"
+  },
+  {
+    "name": "Lat Pulldown",
+    "desc": "A gym machine exercise for strengthening the back and lats.",
+    "link": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "name": "Mountain Climbers",
+    "desc": "A cardio-core workout great for fat loss and endurance.",
+    "link": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+  },
+  {
+    "name": "Russian Twist",
+    "desc": "A core workout targeting obliques and abs rotation strength.",
+    "link": "https://www.youtube.com/watch?v=wkD8rjkodUI"
+  },
+  {
+    "name": "Jump Rope",
+    "desc": "A cardio workout that improves stamina and burns calories fast.",
+    "link": "https://www.youtube.com/watch?v=1BZM2Vre5oc"
+  }
+]
